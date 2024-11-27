@@ -1,5 +1,5 @@
 ![logo](https://github.com/humainislam11/humainislam11/blob/main/Humain%20islam%20rabbi.png)
-<h1 align="center">Hi, I'm Humain Islma Rabbi</h1>
+<h1 align="center">Hi, I'm Humain Islam Rabbi</h1>
 <h3 align="center">Frontend Developer | MERN Stack Learner | Building Modern Web Solutions</h3>
 
 <p align="center"><img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humainislam11&theme=react&hide_border=true&background=0D1117" alt="humainislam11" /></p>
